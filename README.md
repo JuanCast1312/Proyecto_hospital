@@ -1,2 +1,2 @@
 # Proyecto_hospital
-Proyecto hospital
+Grupo 1B
